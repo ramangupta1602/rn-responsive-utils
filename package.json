@@ -1,0 +1,22 @@
+{
+  "name": "rn-responsive-utils",
+  "version": "1.0.0",
+  "description": "A simple React Native utility for responsive width, height, and font scaling.",
+  "main": "src/index.js",
+  "keywords": [
+    "react-native",
+    "responsive",
+    "ui",
+    "font-size",
+    "dimensions"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramangupta1602/rn-responsive-utils.git"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  }
+}

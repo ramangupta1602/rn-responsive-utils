@@ -1,0 +1,9 @@
+
+---
+
+## 🧰 Step 6: Create `.gitignore`
+
+```bash
+node_modules
+.npmignore
+.DS_Store
